@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1767959049,,"wq!"
+|2,0,1767959297,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -28,12 +28,18 @@
 |3,1,36,0,1,0,1767958421,"e"
 
 # File marks:
-'0  2  3  ~/jenkins1
-|4,48,2,3,1767959049,"~/jenkins1"
-'1  2  0  ~/jenkins1
-|4,49,2,0,1767958490,"~/jenkins1"
+'0  2  77  ~/jenkins1
+|4,48,2,77,1767959297,"~/jenkins1"
+'1  2  3  ~/jenkins1
+|4,49,2,3,1767959049,"~/jenkins1"
+'2  2  0  ~/jenkins1
+|4,50,2,0,1767958490,"~/jenkins1"
+'3  2  0  ~/jenkins1
+|4,51,2,0,1767958490,"~/jenkins1"
 
 # Jumplist (newest first):
+-'  2  77  ~/jenkins1
+|4,39,2,77,1767959297,"~/jenkins1"
 -'  2  3  ~/jenkins1
 |4,39,2,3,1767959049,"~/jenkins1"
 -'  2  0  ~/jenkins1
@@ -42,13 +48,15 @@
 |4,39,1,0,1767958399,"~/jenkins1"
 -'  1  0  ~/jenkins1
 |4,39,1,0,1767958399,"~/jenkins1"
+-'  1  0  ~/jenkins1
+|4,39,1,0,1767958399,"~/jenkins1"
 
 # History of marks within files (newest to oldest):
 
 > ~/jenkins1
-	*	1767959041	0
-	"	2	3
-	^	2	4
-	.	2	3
+	*	1767959292	0
+	"	2	77
+	^	2	78
+	.	2	77
 	+	1	19
-	+	2	3
+	+	2	77
